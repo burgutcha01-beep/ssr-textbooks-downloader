@@ -1,0 +1,46 @@
+name: SSR Textbooks Downloader
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run downloader
+        run: python3 downloader.py
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: SSR_books
+          path: |
+            SSR_books.zip
+            textbooks/DOWNLOAD_LOG.md
+            download.log
+          retention-days: 90
+
+      - name: Create Release
+        if: always()
+        uses: softprops/action-gh-release@v1
+        with:
+          files: SSR_books.zip
+          tag_name: download-$(date +%Y%m%d-%H%M%S)
+          body: "📚 SSR Textbooks Download"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
