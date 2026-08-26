@@ -1,0 +1,332 @@
+{
+  "Russia": {
+    "history": {
+      "9": ["https://archive.org/download/uchebnik_istorii_rossii_9_klass/"],
+      "10": ["https://archive.org/download/uchebnik_istorii_rossii_10_klass/"],
+      "11": ["https://archive.org/download/uchebnik_istorii_rossii_11_klass/"]
+    },
+    "world_history": {
+      "9": ["https://archive.org/download/vseobschaya_istoriya_9_klass/"],
+      "10": ["https://archive.org/download/vseobschaya_istoriya_10_klass/"],
+      "11": ["https://archive.org/download/vseobschaya_istoriya_11_klass/"]
+    },
+    "native_language": {
+      "9": ["https://archive.org/download/russkij_yazyk_9_klass/"],
+      "10": ["https://archive.org/download/russkij_yazyk_10_klass/"],
+      "11": ["https://archive.org/download/russkij_yazyk_11_klass/"]
+    },
+    "reading": {
+      "9": ["https://archive.org/download/literatura_9_klass/"],
+      "10": ["https://archive.org/download/literatura_10_klass/"],
+      "11": ["https://archive.org/download/literatura_11_klass/"]
+    }
+  },
+  "Ukraine": {
+    "history": {
+      "9": ["https://archive.org/download/istoriya_ukrayiny_9_klas/"],
+      "10": ["https://archive.org/download/istoriya_ukrayiny_10_klas/"],
+      "11": ["https://archive.org/download/istoriya_ukrayiny_11_klas/"]
+    },
+    "world_history": {
+      "9": ["https://archive.org/download/vsesvitnaya_istoriya_9_klas/"],
+      "10": ["https://archive.org/download/vsesvitnaya_istoriya_10_klas/"],
+      "11": ["https://archive.org/download/vsesvitnaya_istoriya_11_klas/"]
+    },
+    "native_language": {
+      "9": ["https://archive.org/download/ukrayinska_mova_9_klas/"],
+      "10": ["https://archive.org/download/ukrayinska_mova_10_klas/"],
+      "11": ["https://archive.org/download/ukrayinska_mova_11_klas/"]
+    },
+    "reading": {
+      "9": ["https://archive.org/download/ukrayinska_literatura_9_klas/"],
+      "10": ["https://archive.org/download/ukrayinska_literatura_10_klas/"],
+      "11": ["https://archive.org/download/ukrayinska_literatura_11_klas/"]
+    }
+  },
+  "Belarus": {
+    "history": {
+      "9": ["https://archive.org/download/gistoriya_belarusi_9_klas/"],
+      "10": ["https://archive.org/download/gistoriya_belarusi_10_klas/"],
+      "11": ["https://archive.org/download/gistoriya_belarusi_11_klas/"]
+    },
+    "world_history": {
+      "9": ["https://archive.org/download/susvetna_gistoriya_9_klas/"],
+      "10": ["https://archive.org/download/susvetna_gistoriya_10_klas/"],
+      "11": ["https://archive.org/download/susvetna_gistoriya_11_klas/"]
+    },
+    "native_language": {
+      "9": ["https://archive.org/download/belaruskaya_mova_9_klas/"],
+      "10": ["https://archive.org/download/belaruskaya_mova_10_klas/"],
+      "11": ["https://archive.org/download/belaruskaya_mova_11_klas/"]
+    },
+    "reading": {
+      "9": ["https://archive.org/download/belaruskaya_literatura_9_klas/"],
+      "10": ["https://archive.org/download/belaruskaya_literatura_10_klas/"],
+      "11": ["https://archive.org/download/belaruskaya_literatura_11_klas/"]
+    }
+  },
+  "Kazakhstan": {
+    "history": {
+      "9": ["https://archive.org/download/qazaqstan_tarihy_9_sinif/"],
+      "10": ["https://archive.org/download/qazaqstan_tarihy_10_sinif/"],
+      "11": ["https://archive.org/download/qazaqstan_tarihy_11_sinif/"]
+    },
+    "world_history": {
+      "9": ["https://archive.org/download/alem_tarihy_9_sinif/"],
+      "10": ["https://archive.org/download/alem_tarihy_10_sinif/"],
+      "11": ["https://archive.org/download/alem_tarihy_11_sinif/"]
+    },
+    "native_language": {
+      "9": ["https://archive.org/download/qazaq_tili_9_sinif/"],
+      "10": ["https://archive.org/download/qazaq_tili_10_sinif/"],
+      "11": ["https://archive.org/download/qazaq_tili_11_sinif/"]
+    },
+    "reading": {
+      "9": ["https://archive.org/download/adebiet_9_sinif/"],
+      "10": ["https://archive.org/download/adebiet_10_sinif/"],
+      "11": ["https://archive.org/download/adebiet_11_sinif/"]
+    }
+  },
+  "Uzbekistan": {
+    "history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "world_history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "native_language": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "reading": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    }
+  },
+  "Kyrgyzstan": {
+    "history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "world_history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "native_language": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "reading": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    }
+  },
+  "Tajikistan": {
+    "history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "world_history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "native_language": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "reading": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    }
+  },
+  "Turkmenistan": {
+    "history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "world_history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "native_language": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "reading": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    }
+  },
+  "Azerbaijan": {
+    "history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "world_history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "native_language": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "reading": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    }
+  },
+  "Armenia": {
+    "history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "world_history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "native_language": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "reading": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    }
+  },
+  "Georgia": {
+    "history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "world_history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "native_language": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "reading": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    }
+  },
+  "Moldova": {
+    "history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "world_history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "native_language": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "reading": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    }
+  },
+  "Lithuania": {
+    "history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "world_history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "native_language": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "reading": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    }
+  },
+  "Latvia": {
+    "history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "world_history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "native_language": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "reading": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    }
+  },
+  "Estonia": {
+    "history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "world_history": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "native_language": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    },
+    "reading": {
+      "9": [null],
+      "10": [null],
+      "11": [null]
+    }
+  }
+}
