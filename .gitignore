@@ -6,6 +6,11 @@ textbooks/
 # Logs
 *.log
 
+# Cache
+.pytest_cache/
+__pycache__/
+*.pyc
+
 # Python
 __pycache__/
 *.py[cod]
@@ -16,6 +21,7 @@ __pycache__/
 venv/
 env/
 ENV/
+.venv
 
 # IDE
 .vscode/
@@ -27,3 +33,11 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Archives
+*.tar.gz
+*.rar
+
+# Temp
+.tmp/
+temp/
