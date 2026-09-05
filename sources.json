@@ -328,5 +328,32 @@
       "10": [null],
       "11": [null]
     }
+  },
+  "_CKHG_OPEN_EDUCATIONAL": {
+    "COMMENT": "Core Knowledge History & Geography (Universal, multi-country applicable)",
+    "world_history_grade_5": {
+      "5": [
+        "https://www.coreknowledge.org/free-resource/ckhg-unit-01-world-lakes/",
+        "https://www.coreknowledge.org/free-resource/ckhg-unit-02-maya-aztec-inca/",
+        "https://www.coreknowledge.org/free-resource/ckhg-unit-03-age-exploration/",
+        "https://www.coreknowledge.org/free-resource/ckhg-units-4-5-6-renaissance-englands-golden-age/",
+        "https://www.coreknowledge.org/free-resource/ckhg-units-7-8-czars-shoguns/"
+      ]
+    },
+    "world_history_grade_6": {
+      "6": [
+        "https://www.coreknowledge.org/curriculum/history-geography/grade-6/the-ancient-world-to-the-medieval-era/"
+      ]
+    },
+    "world_history_grade_7_8": {
+      "7": [
+        "https://www.coreknowledge.org/curriculum/history-geography/grade-7/the-ancient-world-to-the-medieval-era/",
+        "https://www.coreknowledge.org/curriculum/history-geography/grade-7/renaissance-to-modern-day/"
+      ],
+      "8": [
+        "https://www.coreknowledge.org/curriculum/history-geography/grade-8/the-ancient-world-to-the-medieval-era/",
+        "https://www.coreknowledge.org/curriculum/history-geography/grade-8/renaissance-to-modern-day/"
+      ]
+    }
   }
 }
